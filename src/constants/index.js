@@ -1,4 +1,4 @@
-export const apiKey = "Please Use your own API KEY here !!";
+export const apiKey = "9babe73a063e49e8b4e23611242904";
 
 export const weatherImages = {
   "Partly cloudy": require("../assets/images/partlycloudy.png"),
@@ -15,6 +15,7 @@ export const weatherImages = {
   "Moderate or heavy freezing rain": require("../assets/images/heavyrain.png"),
   "Moderate or heavy rain shower": require("../assets/images/heavyrain.png"),
   "Moderate or heavy rain with thunder": require("../assets/images/heavyrain.png"),
+
   Mist: require("../assets/images/mist.png"),
   other: require("../assets/images/moderaterain.png"),
 };
